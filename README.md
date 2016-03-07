@@ -23,7 +23,7 @@ Some tweakings to the command history, mostly taken from Tom Ryder's article [Be
 - Record each line as it gets issued;
 - Keep track of a bigger history;
 - Avoid duplicate entries;
-- Avoid recording unneeded commands (`exit`, `ls`, `bg`, `fg`, and `history` itself);
+- Avoid recording unneeded commands (`exit`, `ls`, `bg`, `fg`, `clear`, and `history` itself);
 - Make use of a timestamp format that is actually useful.
 
 ### 3. Better directory navigation
